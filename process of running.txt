@@ -1,0 +1,16 @@
+vgg16:
+ 1)Lets go to vgg16 train folder
+ 2)you can see datasetf folder in that folder  you see two folders original and tampered folder in that
+  folder put the images that you may have .
+ 3)Now go to gui.py and run that file you will get a gui output in that click on each algorithm(first button)
+  you may get three button gui pop up and select and click on model summary after that train you model.
+ 4) After that you will get your trained weights in training models folder so you do copy paste that weights
+ into trained folder (vgg16model)
+ 5)Now using test button in vgg16 model you can test images using trained weights.
+
+Unet:
+ Same process that we done in vgg16
+ the weigths are less storage so that i uploaded in this project itself.
+
+vgg16(semantic segmention):
+ Same process that we done with vgg16 . But first vgg16 model summary weight has to put in training models than only it will work.
